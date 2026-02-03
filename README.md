@@ -5,7 +5,7 @@
 **Github:**
 
 * Repository: https://github.com/AlbertoComendadorSanchez/MADKotlin2025-2026
-* Releases: 
+* Releases: https://github.com/AlbertoComendadorSanchez/MADKotlin2025-2026/releases
 
 **Workspace:** https://upm365.sharepoint.com/sites/MADKotlin2025-2026
 
