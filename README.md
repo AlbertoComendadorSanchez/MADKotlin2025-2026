@@ -11,6 +11,15 @@
 
 ## Description
 
-Aquí tu texto de descripción normal, sin formato especial.
 
-Aquí continúas con más párrafos si quieres.
+## Screenshots and navigation
+
+
+## Demo Video
+
+## Features
+
+## How to Use
+
+## Participants
+* Alberto Comendador Sánchez (alberto.comendador@alumnos.upm.es) 100% workload
