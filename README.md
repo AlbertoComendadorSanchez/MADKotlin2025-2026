@@ -1,4 +1,4 @@
-# MADRunning
+# MADProject
 
 ## Workspace
 
