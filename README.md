@@ -4,10 +4,10 @@
 
 **Github:**
 
-* Repository: [texto del enlace](URL)
-* Releases: [texto del enlace](URL)
+* Repository: https://github.com/AlbertoComendadorSanchez/MADKotlin2025-2026
+* Releases: 
 
-**Workspace:** [texto del enlace](URL)
+**Workspace:** https://upm365.sharepoint.com/sites/MADKotlin2025-2026
 
 ## Description
 
